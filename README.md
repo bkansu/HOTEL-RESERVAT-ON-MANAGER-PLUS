@@ -3,9 +3,11 @@
 ## Team "Lost"
 
 ### Contributors 
-[Mustafa Fırat YILMAZ](https://github.com/Kite1717)  **2016280037** 💻 🌍 🎨 
 
-[Batuhan KANSU](https://github.com/bkansu) **2017280026** 💻 ⚠️ 📆 
+[Batuhan KANSU](https://github.com/bkansu) **2017280026** 
+
+[Mustafa Fırat YILMAZ](https://github.com/Kite1717)  **2016280037** 
+
 
 ## Project Overview  [![Status](https://img.shields.io/badge/Status-completed-blue.svg)](https://github.com/DokuzEylulCsc/proje2-lost/commits/master)
 - **Using** [.NET Framework 4.6.1](https://www.microsoft.com/en-us/download/details.aspx?id=49981) 🔧
