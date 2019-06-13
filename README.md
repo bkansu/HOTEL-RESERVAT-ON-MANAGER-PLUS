@@ -11,11 +11,11 @@
 
 ## Project Overview  [![Status](https://img.shields.io/badge/Status-completed-blue.svg)](https://github.com/DokuzEylulCsc/proje2-lost/commits/master)
 - **Using** [.NET Framework 4.6.1](https://www.microsoft.com/en-us/download/details.aspx?id=49981) 🔧
-- [Description](https://github.com/DokuzEylulCsc/proje2-lost/blob/master/DESCRIPTION.md) 📋 
-- [Source Code](https://github.com/DokuzEylulCsc/proje2-lost/tree/master/Project2) 🐛 
-- [UML Diagram](https://github.com/DokuzEylulCsc/proje2-lost/blob/master/UML%20Class%20Diagram/UML%20Class%20Diagram.pdf)
-- [Log File](https://github.com/DokuzEylulCsc/proje2-lost/tree/master/Project2/bin/Debug/LogsFile)
-- [Xml Files](https://github.com/DokuzEylulCsc/proje2-lost/tree/master/Project2/bin/Debug/Data)
+- [Description](https://github.com/bkansu/HOTEL-RESERVATION-MANAGER-PLUS/blob/master/DESCRIPTION.md) 📋 
+- [Source Code](https://github.com/bkansu/HOTEL-RESERVATION-MANAGER-PLUS/tree/master/Project2) 🐛 
+- [UML Diagram](https://github.com/bkansu/HOTEL-RESERVATION-MANAGER-PLUS/blob/master/UML%20Class%20Diagram/UML%20Class%20Diagram.pdf)
+- [Log File](https://github.com/bkansu/HOTEL-RESERVATION-MANAGER-PLUS/tree/master/Project2/bin/Debug/LogsFile)
+- [Xml Files](https://github.com/bkansu/HOTEL-RESERVATION-MANAGER-PLUS/tree/master/Project2/bin/Debug/Data)
 
 
 ## Referances  📖 👀 
@@ -36,6 +36,6 @@
  * Step4 : Run application
  # Informations for the login process
 
-* [Admin](https://github.com/DokuzEylulCsc/proje2-lost/blob/master/Info/AdminInfo.txt)
+* [Admin](https://github.com/bkansu/HOTEL-RESERVATION-MANAGER-PLUS/blob/master/Info/AdminInfo.txt)
  
-* [Users](https://github.com/DokuzEylulCsc/proje2-lost/blob/master/Info/Users.txt)
+* [Users](https://github.com/bkansu/HOTEL-RESERVATION-MANAGER-PLUS/blob/master/Info/Users.txt)
