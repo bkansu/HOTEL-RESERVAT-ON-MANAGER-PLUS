@@ -1,0 +1,145 @@
+Notification : AdminModule ->> updatePassword()   Value :  
+Notification : LoginScreen ->> button1_Click(sıgn up event) Invalid user information   Value :  wq
+Notification : LoginScreen ->> button1_Click(sıgn up event) Invalid user information   Value :  null
+Notification : AdminModule ->> updateSurname()   Value :  /*/-/-/-
+Notification : AdminModule ->> updateSurname()   Value :  454646
+Notification : AdminModule ->> updateAge()   Value :  12
+Notification : LoginScreen ->> button1_Click(sıgn up event) Invalid user information   Value :  null
+Notification : UserModule ->> updateName()   Value :  2323
+Notification : UserModule ->> updateName()   Value :  /*/*/*
+Notification : UserModule ->> updateId()   Value :  sa
+Notification : UserModule ->> updateId()   Value :  as
+Notification : UserModule ->> updateAge()   Value :  12
+Notification : UserModule ->> updateAge()   Value :  1
+System.InvalidOperationException: XML belgesinde bir hata var (0, 0). ---> System.Xml.XmlException: Kök öğesi eksik.
+   konum: System.Xml.XmlTextReaderImpl.Throw(Exception e)
+   konum: System.Xml.XmlTextReaderImpl.ParseDocumentContent()
+   konum: System.Xml.XmlTextReaderImpl.Read()
+   konum: System.Xml.XmlTextReader.Read()
+   konum: System.Xml.XmlReader.MoveToContent()
+   konum: Microsoft.Xml.Serialization.GeneratedAssembly.XmlSerializationReaderApp.Read19_App()
+   --- İç özel durum yığını izlemesinin sonu ---
+   konum: System.Xml.Serialization.XmlSerializer.Deserialize(XmlReader xmlReader, String encodingStyle, XmlDeserializationEvents events)
+   konum: System.Xml.Serialization.XmlSerializer.Deserialize(TextReader textReader)
+   konum: Project2.Logger.Deserializer() C:\Users\mstf_\OneDrive\Masaüstü\proje2-lost\Project2\Helper\Logger.cs içinde: satır 50
+   konum: Project2.App.continueApp() C:\Users\mstf_\OneDrive\Masaüstü\proje2-lost\Project2\App.cs içinde: satır 85
+Notification : App ->> AddRoom()   Value :  null
+Notification : App ->> AddRoom()   Value :  mustafa
+Notification : App ->> AddRoom()   Value :  null
+Notification : App ->> AddRoom()   Value :  adsadasda
+Notification : App ->> AddRoom()   Value :  Tsadasm
+Notification : App ->> AddRoom()   Value :  Tsadasm
+Notification : App ->> AddRoom()   Value :  adsadasda
+Notification : App ->> AddRoom()   Value :  mustafa
+Notification : App ->> AddRoom()   Value :  null
+Notification : App ->> AddRoom()   Value :  null
+Notification : App ->> AddRoom()   Value :  mustafa
+Notification : App ->> AddRoom()   Value :  adsadasda
+Notification : App ->> AddRoom()   Value :  null
+Notification : App ->> AddRoom()   Value :  Tsadasm
+Notification : App ->> AddRoom()   Value :  null
+Notification : App ->> AddRoom()   Value :  adsadasda
+Notification : App ->> AddRoom()   Value :  mustafa
+Notification : App ->> AddRoom()   Value :  adsadasda
+Notification : App ->> AddRoom()   Value :  adsadasda
+Notification : App ->> AddRoom()   Value :  null
+Notification : App ->> AddRoom()   Value :  null
+Notification : App ->> AddRoom()   Value :  null
+Notification : App ->> AddRoom()   Value :  null
+Notification : App ->> AddRoom()   Value :  null
+Notification : App ->> AddRoom()   Value :  Tsadasm
+Notification : App ->> AddRoom()   Value :  adsadasda
+Notification : App ->> AddRoom()   Value :  null
+Notification : App ->> AddRoom()   Value :  Tsadasm
+Notification : App ->> AddRoom()   Value :  adsadasda
+Notification : App ->> AddRoom()   Value :  mustafa
+System.InvalidOperationException: XML belgesinde bir hata var (0, 0). ---> System.Xml.XmlException: Kök öğesi eksik.
+   konum: System.Xml.XmlTextReaderImpl.Throw(Exception e)
+   konum: System.Xml.XmlTextReaderImpl.ParseDocumentContent()
+   konum: System.Xml.XmlTextReaderImpl.Read()
+   konum: System.Xml.XmlTextReader.Read()
+   konum: System.Xml.XmlReader.MoveToContent()
+   konum: Microsoft.Xml.Serialization.GeneratedAssembly.XmlSerializationReaderApp.Read19_App()
+   --- İç özel durum yığını izlemesinin sonu ---
+   konum: System.Xml.Serialization.XmlSerializer.Deserialize(XmlReader xmlReader, String encodingStyle, XmlDeserializationEvents events)
+   konum: System.Xml.Serialization.XmlSerializer.Deserialize(TextReader textReader)
+   konum: Project2.Logger.Deserializer() C:\Users\mstf_\OneDrive\Masaüstü\proje2-lost\Project2\Helper\Logger.cs içinde: satır 50
+   konum: Project2.App.continueApp() C:\Users\mstf_\OneDrive\Masaüstü\proje2-lost\Project2\App.cs içinde: satır 85
+Notification : App ->> AddRoom()   Value :  mustafa
+Notification : App ->> AddRoom()   Value :  Tsadasm
+Notification : App ->> AddRoom()   Value :  Tsadasm
+Notification : App ->> AddRoom()   Value :  Tsadasm
+Notification : App ->> AddRoom()   Value :  mustafa
+Notification : App ->> AddRoom()   Value :  null
+Notification : App ->> AddRoom()   Value :  Tsadasm
+Notification : App ->> AddRoom()   Value :  null
+Notification : App ->> AddRoom()   Value :  Tsadasm
+Notification : App ->> AddRoom()   Value :  null
+Notification : App ->> AddRoom()   Value :  adsadasda
+Notification : App ->> AddRoom()   Value :  Tsadasm
+Notification : App ->> AddRoom()   Value :  mustafa
+Notification : App ->> AddRoom()   Value :  adsadasda
+Notification : App ->> AddRoom()   Value :  adsadasda
+Notification : App ->> AddRoom()   Value :  null
+Notification : App ->> AddRoom()   Value :  null
+Notification : App ->> AddRoom()   Value :  mustafa
+Notification : App ->> AddRoom()   Value :  adsadasda
+Notification : App ->> AddRoom()   Value :  mustafa
+Notification : App ->> AddRoom()   Value :  null
+Notification : App ->> AddRoom()   Value :  null
+Notification : App ->> AddRoom()   Value :  adsadasda
+Notification : App ->> AddRoom()   Value :  adsadasda
+Notification : App ->> AddRoom()   Value :  null
+Notification : App ->> AddRoom()   Value :  adsadasda
+Notification : App ->> AddRoom()   Value :  null
+Notification : App ->> AddRoom()   Value :  mustafa
+Notification : App ->> AddRoom()   Value :  Tsadasm
+Notification : App ->> AddRoom()   Value :  Tsadasm
+System.InvalidOperationException: XML belgesinde bir hata var (0, 0). ---> System.Xml.XmlException: Kök öğesi eksik.
+   konum: System.Xml.XmlTextReaderImpl.Throw(Exception e)
+   konum: System.Xml.XmlTextReaderImpl.ParseDocumentContent()
+   konum: System.Xml.XmlTextReaderImpl.Read()
+   konum: System.Xml.XmlTextReader.Read()
+   konum: System.Xml.XmlReader.MoveToContent()
+   konum: Microsoft.Xml.Serialization.GeneratedAssembly.XmlSerializationReaderApp.Read19_App()
+   --- İç özel durum yığını izlemesinin sonu ---
+   konum: System.Xml.Serialization.XmlSerializer.Deserialize(XmlReader xmlReader, String encodingStyle, XmlDeserializationEvents events)
+   konum: System.Xml.Serialization.XmlSerializer.Deserialize(TextReader textReader)
+   konum: Project2.Logger.Deserializer() C:\Users\mstf_\OneDrive\Masaüstü\proje2-lost\Project2\Helper\Logger.cs içinde: satır 50
+   konum: Project2.App.continueApp() C:\Users\mstf_\OneDrive\Masaüstü\proje2-lost\Project2\App.cs içinde: satır 85
+Notification : App ->> AddRoom()   Value :  mustafa
+Notification : App ->> AddRoom()   Value :  null
+Notification : App ->> AddRoom()   Value :  null
+Notification : App ->> AddRoom()   Value :  null
+Notification : App ->> AddRoom()   Value :  mustafa
+Notification : App ->> AddRoom()   Value :  null
+Notification : App ->> AddRoom()   Value :  null
+Notification : App ->> AddRoom()   Value :  null
+Notification : App ->> AddRoom()   Value :  adsadasda
+Notification : App ->> AddRoom()   Value :  Tsadasm
+Notification : App ->> AddRoom()   Value :  null
+Notification : App ->> AddRoom()   Value :  Tsadasm
+Notification : App ->> AddRoom()   Value :  null
+Notification : App ->> AddRoom()   Value :  null
+Notification : App ->> AddRoom()   Value :  adsadasda
+Notification : App ->> AddRoom()   Value :  null
+Notification : App ->> AddRoom()   Value :  adsadasda
+Notification : App ->> AddRoom()   Value :  adsadasda
+Notification : App ->> AddRoom()   Value :  null
+Notification : App ->> AddRoom()   Value :  null
+Notification : App ->> AddRoom()   Value :  Tsadasm
+Notification : App ->> AddRoom()   Value :  mustafa
+Notification : App ->> AddRoom()   Value :  null
+Notification : App ->> AddRoom()   Value :  Tsadasm
+Notification : App ->> AddRoom()   Value :  adsadasda
+Notification : App ->> AddRoom()   Value :  mustafa
+Notification : App ->> AddRoom()   Value :  adsadasda
+Notification : App ->> AddRoom()   Value :  null
+Notification : App ->> AddRoom()   Value :  null
+Notification : App ->> AddRoom()   Value :  Tsadasm
+Notification : UserModule ->> updateName()   Value :  asdasd3232
+Notification : UserModule ->> updateName()   Value :  ayşe
+Notification : UserModule ->> updateSurname()   Value :  456546dsfdsf
+Notification : UserModule ->> updateAge()   Value :  12
+Notification : UserModule ->> updateSurname()   Value :  d232d
+Notification : UserModule ->> updateAge()   Value :  10

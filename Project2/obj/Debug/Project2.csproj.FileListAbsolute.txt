@@ -1,0 +1,12 @@
+C:\Users\mstf_\OneDrive\Masaüstü\proje2-lost\Project2\obj\Debug\Project2.csprojAssemblyReference.cache
+C:\Users\mstf_\OneDrive\Masaüstü\proje2-lost\Project2\obj\Debug\Project2.LoginScreen.resources
+C:\Users\mstf_\OneDrive\Masaüstü\proje2-lost\Project2\obj\Debug\Project2.Properties.Resources.resources
+C:\Users\mstf_\OneDrive\Masaüstü\proje2-lost\Project2\obj\Debug\Project2.csproj.GenerateResource.cache
+C:\Users\mstf_\OneDrive\Masaüstü\proje2-lost\Project2\obj\Debug\Project2.csproj.CoreCompileInputs.cache
+C:\Users\mstf_\OneDrive\Masaüstü\proje2-lost\Project2\bin\Debug\Project2.exe.config
+C:\Users\mstf_\OneDrive\Masaüstü\proje2-lost\Project2\bin\Debug\Project2.exe
+C:\Users\mstf_\OneDrive\Masaüstü\proje2-lost\Project2\bin\Debug\Project2.pdb
+C:\Users\mstf_\OneDrive\Masaüstü\proje2-lost\Project2\obj\Debug\Project2.exe
+C:\Users\mstf_\OneDrive\Masaüstü\proje2-lost\Project2\obj\Debug\Project2.pdb
+C:\Users\mstf_\OneDrive\Masaüstü\proje2-lost\Project2\obj\Debug\Project2.UserGUI.resources
+C:\Users\mstf_\OneDrive\Masaüstü\proje2-lost\Project2\obj\Debug\Project2.AdminGUI.resources

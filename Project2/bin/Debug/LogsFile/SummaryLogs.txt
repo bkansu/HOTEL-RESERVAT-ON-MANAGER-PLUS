@@ -1,0 +1,526 @@
+
+12..06.2019--------------------------
+Hotel1   Full Room Count : 3  Full Rooms No : 102  Total paid amount : 316   asdassad    asdasdsad    asdasd    22   ||   101  Total paid amount : 310   aaaaaaa    aaaaaaa    aaaaaaa    22   ||   103  Total paid amount : 4085   qwertyu    zazazaza    zazazaza    22   ||   
+Hotel2   Full Room Count : 0  Full Rooms No : 
+Hotel3   Full Room Count : 0  Full Rooms No : 
+Hotel4   Full Room Count : 0  Full Rooms No : 
+Hotel5   Full Room Count : 0  Full Rooms No : 
+Hotel6   Full Room Count : 0  Full Rooms No : 
+Hotel7   Full Room Count : 0  Full Rooms No : 
+Hotel8   Full Room Count : 2  Full Rooms No : 405  Total paid amount : 9511   kite17    emre    YILMAZ    19   ||   103  Total paid amount : 867   user002    ayse    asfafs    43   ||   
+Hotel10   Full Room Count : 0  Full Rooms No : 
+Hotel11   Full Room Count : 0  Full Rooms No : 
+Hotel12   Full Room Count : 0  Full Rooms No : 
+Hotel13   Full Room Count : 0  Full Rooms No : 
+Hotel14   Full Room Count : 0  Full Rooms No : 
+Hotel15   Full Room Count : 1  Full Rooms No : 403  Total paid amount : 14115   user001    ahmet    ali    42   ||   
+Hotel17   Full Room Count : 2  Full Rooms No : 608  Total paid amount : 29498   user003    batuhan    kansu    23   ||   606  Total paid amount : 1189625   user004    asdasdasd    surname    28   ||   
+Hotel18   Full Room Count : 0  Full Rooms No : 
+Hotel19   Full Room Count : 0  Full Rooms No : 
+Hotel20   Full Room Count : 0  Full Rooms No : 
+Hotel21   Full Room Count : 0  Full Rooms No : 
+Hotel22   Full Room Count : 0  Full Rooms No : 
+Hotel23   Full Room Count : 0  Full Rooms No : 
+Hotel24   Full Room Count : 1  Full Rooms No : 203  Total paid amount : 2198   user003    batuhan    kansu    23   ||   
+Hotel25   Full Room Count : 0  Full Rooms No : 
+Hotel27   Full Room Count : 0  Full Rooms No : 
+Hotel28   Full Room Count : 0  Full Rooms No : 
+Hotel29   Full Room Count : 0  Full Rooms No : 
+mustafa   Full Room Count : 1  Full Rooms No : 100  Total paid amount : 697   qwertyu    zazazaza    zazazaza    22   ||   
+dasdasdasd   Full Room Count : 0  Full Rooms No : 
+elifhotel   Full Room Count : 0  Full Rooms No : 
+sdasd   Full Room Count : 0  Full Rooms No : 
+asdasd   Full Room Count : 0  Full Rooms No : 
+
+----------------------------------------------
+
+13..06.2019--------------------------
+Hotel1   Full Room Count : 3  Full Rooms No : 102  Total paid amount : 316   asdassad    asdasdsad    asdasd    22   ||   101  Total paid amount : 310   aaaaaaa    aaaaaaa    aaaaaaa    22   ||   103  Total paid amount : 4085   qwertyu    zazazaza    zazazaza    22   ||   
+Hotel2   Full Room Count : 0  Full Rooms No : 
+Hotel3   Full Room Count : 0  Full Rooms No : 
+Hotel4   Full Room Count : 0  Full Rooms No : 
+Hotel5   Full Room Count : 0  Full Rooms No : 
+Hotel6   Full Room Count : 0  Full Rooms No : 
+Hotel7   Full Room Count : 0  Full Rooms No : 
+Hotel8   Full Room Count : 2  Full Rooms No : 405  Total paid amount : 9511   kite17    emre    YILMAZ    19   ||   103  Total paid amount : 867   user002    ayse    asfafs    43   ||   
+Hotel10   Full Room Count : 0  Full Rooms No : 
+Hotel11   Full Room Count : 0  Full Rooms No : 
+Hotel12   Full Room Count : 0  Full Rooms No : 
+Hotel13   Full Room Count : 0  Full Rooms No : 
+Hotel14   Full Room Count : 0  Full Rooms No : 
+Hotel15   Full Room Count : 1  Full Rooms No : 403  Total paid amount : 14115   user001    ahmet    ali    42   ||   
+Hotel17   Full Room Count : 2  Full Rooms No : 608  Total paid amount : 29498   user003    batuhan    kansu    23   ||   606  Total paid amount : 1189625   user004    asdasdasd    surname    28   ||   
+Hotel18   Full Room Count : 0  Full Rooms No : 
+Hotel19   Full Room Count : 0  Full Rooms No : 
+Hotel20   Full Room Count : 0  Full Rooms No : 
+Hotel21   Full Room Count : 0  Full Rooms No : 
+Hotel22   Full Room Count : 0  Full Rooms No : 
+Hotel23   Full Room Count : 0  Full Rooms No : 
+Hotel24   Full Room Count : 1  Full Rooms No : 203  Total paid amount : 2198   user003    batuhan    kansu    23   ||   
+Hotel25   Full Room Count : 0  Full Rooms No : 
+Hotel27   Full Room Count : 0  Full Rooms No : 
+Hotel28   Full Room Count : 0  Full Rooms No : 
+Hotel29   Full Room Count : 0  Full Rooms No : 
+mustafa   Full Room Count : 1  Full Rooms No : 100  Total paid amount : 697   qwertyu    zazazaza    zazazaza    22   ||   
+dasdasdasd   Full Room Count : 0  Full Rooms No : 
+elifhotel   Full Room Count : 0  Full Rooms No : 
+sdasd   Full Room Count : 0  Full Rooms No : 
+asdasd   Full Room Count : 0  Full Rooms No : 
+
+----------------------------------------------
+
+14..06.2019--------------------------
+Hotel1   Full Room Count : 1  Full Rooms No : 103  Total paid amount : 4085   qwertyu    zazazaza    zazazaza    22   ||   
+Hotel2   Full Room Count : 0  Full Rooms No : 
+Hotel3   Full Room Count : 0  Full Rooms No : 
+Hotel4   Full Room Count : 0  Full Rooms No : 
+Hotel5   Full Room Count : 0  Full Rooms No : 
+Hotel6   Full Room Count : 0  Full Rooms No : 
+Hotel7   Full Room Count : 0  Full Rooms No : 
+Hotel8   Full Room Count : 2  Full Rooms No : 405  Total paid amount : 9511   kite17    emre    YILMAZ    19   ||   103  Total paid amount : 867   user002    ayse    asfafs    43   ||   
+Hotel10   Full Room Count : 0  Full Rooms No : 
+Hotel11   Full Room Count : 0  Full Rooms No : 
+Hotel12   Full Room Count : 0  Full Rooms No : 
+Hotel13   Full Room Count : 0  Full Rooms No : 
+Hotel14   Full Room Count : 0  Full Rooms No : 
+Hotel15   Full Room Count : 1  Full Rooms No : 403  Total paid amount : 14115   user001    ahmet    ali    42   ||   
+Hotel17   Full Room Count : 2  Full Rooms No : 608  Total paid amount : 29498   user003    batuhan    kansu    23   ||   606  Total paid amount : 1189625   user004    asdasdasd    surname    28   ||   
+Hotel18   Full Room Count : 0  Full Rooms No : 
+Hotel19   Full Room Count : 0  Full Rooms No : 
+Hotel20   Full Room Count : 0  Full Rooms No : 
+Hotel21   Full Room Count : 0  Full Rooms No : 
+Hotel22   Full Room Count : 0  Full Rooms No : 
+Hotel23   Full Room Count : 0  Full Rooms No : 
+Hotel24   Full Room Count : 1  Full Rooms No : 203  Total paid amount : 2198   user003    batuhan    kansu    23   ||   
+Hotel25   Full Room Count : 0  Full Rooms No : 
+Hotel27   Full Room Count : 0  Full Rooms No : 
+Hotel28   Full Room Count : 0  Full Rooms No : 
+Hotel29   Full Room Count : 0  Full Rooms No : 
+mustafa   Full Room Count : 0  Full Rooms No : 
+dasdasdasd   Full Room Count : 0  Full Rooms No : 
+elifhotel   Full Room Count : 0  Full Rooms No : 
+sdasd   Full Room Count : 0  Full Rooms No : 
+asdasd   Full Room Count : 0  Full Rooms No : 
+
+----------------------------------------------
+
+15..06.2019--------------------------
+Hotel1   Full Room Count : 3  Full Rooms No : 101  Total paid amount : 3073   zazazaza    zazazaza    zazazaza    22   ||   102  Total paid amount : 3133   zazazaza    zazazaza    zazazaza    22   ||   103  Total paid amount : 4085   qwertyu    zazazaza    zazazaza    22   ||   
+Hotel2   Full Room Count : 0  Full Rooms No : 
+Hotel3   Full Room Count : 0  Full Rooms No : 
+Hotel4   Full Room Count : 0  Full Rooms No : 
+Hotel5   Full Room Count : 0  Full Rooms No : 
+Hotel6   Full Room Count : 0  Full Rooms No : 
+Hotel7   Full Room Count : 0  Full Rooms No : 
+Hotel8   Full Room Count : 2  Full Rooms No : 405  Total paid amount : 9511   kite17    emre    YILMAZ    19   ||   103  Total paid amount : 867   user002    ayse    asfafs    43   ||   
+Hotel10   Full Room Count : 0  Full Rooms No : 
+Hotel11   Full Room Count : 0  Full Rooms No : 
+Hotel12   Full Room Count : 0  Full Rooms No : 
+Hotel13   Full Room Count : 0  Full Rooms No : 
+Hotel14   Full Room Count : 0  Full Rooms No : 
+Hotel15   Full Room Count : 1  Full Rooms No : 403  Total paid amount : 14115   user001    ahmet    ali    42   ||   
+Hotel17   Full Room Count : 2  Full Rooms No : 608  Total paid amount : 29498   user003    batuhan    kansu    23   ||   606  Total paid amount : 1189625   user004    asdasdasd    surname    28   ||   
+Hotel18   Full Room Count : 0  Full Rooms No : 
+Hotel19   Full Room Count : 0  Full Rooms No : 
+Hotel20   Full Room Count : 0  Full Rooms No : 
+Hotel21   Full Room Count : 0  Full Rooms No : 
+Hotel22   Full Room Count : 0  Full Rooms No : 
+Hotel23   Full Room Count : 0  Full Rooms No : 
+Hotel24   Full Room Count : 1  Full Rooms No : 203  Total paid amount : 2198   user003    batuhan    kansu    23   ||   
+Hotel25   Full Room Count : 0  Full Rooms No : 
+Hotel27   Full Room Count : 0  Full Rooms No : 
+Hotel28   Full Room Count : 0  Full Rooms No : 
+Hotel29   Full Room Count : 0  Full Rooms No : 
+mustafa   Full Room Count : 0  Full Rooms No : 
+dasdasdasd   Full Room Count : 0  Full Rooms No : 
+elifhotel   Full Room Count : 0  Full Rooms No : 
+sdasd   Full Room Count : 0  Full Rooms No : 
+asdasd   Full Room Count : 0  Full Rooms No : 
+
+----------------------------------------------
+
+16..06.2019--------------------------
+Hotel1   Full Room Count : 3  Full Rooms No : 101  Total paid amount : 3073   zazazaza    zazazaza    zazazaza    22   ||   102  Total paid amount : 3133   zazazaza    zazazaza    zazazaza    22   ||   103  Total paid amount : 4085   qwertyu    zazazaza    zazazaza    22   ||   
+Hotel2   Full Room Count : 0  Full Rooms No : 
+Hotel3   Full Room Count : 0  Full Rooms No : 
+Hotel4   Full Room Count : 0  Full Rooms No : 
+Hotel5   Full Room Count : 0  Full Rooms No : 
+Hotel6   Full Room Count : 0  Full Rooms No : 
+Hotel7   Full Room Count : 0  Full Rooms No : 
+Hotel8   Full Room Count : 2  Full Rooms No : 405  Total paid amount : 9511   kite17    emre    YILMAZ    19   ||   103  Total paid amount : 867   user002    ayse    asfafs    43   ||   
+Hotel10   Full Room Count : 0  Full Rooms No : 
+Hotel11   Full Room Count : 0  Full Rooms No : 
+Hotel12   Full Room Count : 0  Full Rooms No : 
+Hotel13   Full Room Count : 0  Full Rooms No : 
+Hotel14   Full Room Count : 0  Full Rooms No : 
+Hotel15   Full Room Count : 1  Full Rooms No : 403  Total paid amount : 14115   user001    ahmet    ali    42   ||   
+Hotel17   Full Room Count : 2  Full Rooms No : 608  Total paid amount : 29498   user003    batuhan    kansu    23   ||   606  Total paid amount : 1189625   user004    asdasdasd    surname    28   ||   
+Hotel18   Full Room Count : 0  Full Rooms No : 
+Hotel19   Full Room Count : 0  Full Rooms No : 
+Hotel20   Full Room Count : 0  Full Rooms No : 
+Hotel21   Full Room Count : 0  Full Rooms No : 
+Hotel22   Full Room Count : 0  Full Rooms No : 
+Hotel23   Full Room Count : 0  Full Rooms No : 
+Hotel24   Full Room Count : 1  Full Rooms No : 203  Total paid amount : 2198   user003    batuhan    kansu    23   ||   
+Hotel25   Full Room Count : 0  Full Rooms No : 
+Hotel27   Full Room Count : 0  Full Rooms No : 
+Hotel28   Full Room Count : 0  Full Rooms No : 
+Hotel29   Full Room Count : 0  Full Rooms No : 
+mustafa   Full Room Count : 0  Full Rooms No : 
+dasdasdasd   Full Room Count : 0  Full Rooms No : 
+elifhotel   Full Room Count : 0  Full Rooms No : 
+sdasd   Full Room Count : 0  Full Rooms No : 
+asdasd   Full Room Count : 0  Full Rooms No : 
+
+----------------------------------------------
+
+17..06.2019--------------------------
+Hotel1   Full Room Count : 3  Full Rooms No : 101  Total paid amount : 3073   zazazaza    zazazaza    zazazaza    22   ||   102  Total paid amount : 3133   zazazaza    zazazaza    zazazaza    22   ||   103  Total paid amount : 4085   qwertyu    zazazaza    zazazaza    22   ||   
+Hotel2   Full Room Count : 0  Full Rooms No : 
+Hotel3   Full Room Count : 0  Full Rooms No : 
+Hotel4   Full Room Count : 0  Full Rooms No : 
+Hotel5   Full Room Count : 0  Full Rooms No : 
+Hotel6   Full Room Count : 0  Full Rooms No : 
+Hotel7   Full Room Count : 0  Full Rooms No : 
+Hotel8   Full Room Count : 1  Full Rooms No : 405  Total paid amount : 9511   kite17    emre    YILMAZ    19   ||   
+Hotel10   Full Room Count : 0  Full Rooms No : 
+Hotel11   Full Room Count : 0  Full Rooms No : 
+Hotel12   Full Room Count : 0  Full Rooms No : 
+Hotel13   Full Room Count : 0  Full Rooms No : 
+Hotel14   Full Room Count : 0  Full Rooms No : 
+Hotel15   Full Room Count : 1  Full Rooms No : 403  Total paid amount : 14115   user001    ahmet    ali    42   ||   
+Hotel17   Full Room Count : 2  Full Rooms No : 608  Total paid amount : 29498   user003    batuhan    kansu    23   ||   606  Total paid amount : 1189625   user004    asdasdasd    surname    28   ||   
+Hotel18   Full Room Count : 0  Full Rooms No : 
+Hotel19   Full Room Count : 0  Full Rooms No : 
+Hotel20   Full Room Count : 0  Full Rooms No : 
+Hotel21   Full Room Count : 0  Full Rooms No : 
+Hotel22   Full Room Count : 0  Full Rooms No : 
+Hotel23   Full Room Count : 0  Full Rooms No : 
+Hotel24   Full Room Count : 1  Full Rooms No : 203  Total paid amount : 2198   user003    batuhan    kansu    23   ||   
+Hotel25   Full Room Count : 0  Full Rooms No : 
+Hotel27   Full Room Count : 0  Full Rooms No : 
+Hotel28   Full Room Count : 0  Full Rooms No : 
+Hotel29   Full Room Count : 0  Full Rooms No : 
+mustafa   Full Room Count : 0  Full Rooms No : 
+dasdasdasd   Full Room Count : 0  Full Rooms No : 
+elifhotel   Full Room Count : 0  Full Rooms No : 
+sdasd   Full Room Count : 0  Full Rooms No : 
+asdasd   Full Room Count : 0  Full Rooms No : 
+
+----------------------------------------------
+
+18..06.2019--------------------------
+Hotel1   Full Room Count : 3  Full Rooms No : 101  Total paid amount : 3073   zazazaza    zazazaza    zazazaza    22   ||   102  Total paid amount : 3133   zazazaza    zazazaza    zazazaza    22   ||   103  Total paid amount : 4085   qwertyu    zazazaza    zazazaza    22   ||   
+Hotel2   Full Room Count : 0  Full Rooms No : 
+Hotel3   Full Room Count : 0  Full Rooms No : 
+Hotel4   Full Room Count : 0  Full Rooms No : 
+Hotel5   Full Room Count : 0  Full Rooms No : 
+Hotel6   Full Room Count : 0  Full Rooms No : 
+Hotel7   Full Room Count : 0  Full Rooms No : 
+Hotel8   Full Room Count : 1  Full Rooms No : 405  Total paid amount : 9511   kite17    emre    YILMAZ    19   ||   
+Hotel10   Full Room Count : 0  Full Rooms No : 
+Hotel11   Full Room Count : 0  Full Rooms No : 
+Hotel12   Full Room Count : 0  Full Rooms No : 
+Hotel13   Full Room Count : 0  Full Rooms No : 
+Hotel14   Full Room Count : 0  Full Rooms No : 
+Hotel15   Full Room Count : 1  Full Rooms No : 403  Total paid amount : 14115   user001    ahmet    ali    42   ||   
+Hotel17   Full Room Count : 2  Full Rooms No : 608  Total paid amount : 29498   user003    batuhan    kansu    23   ||   606  Total paid amount : 1189625   user004    asdasdasd    surname    28   ||   
+Hotel18   Full Room Count : 0  Full Rooms No : 
+Hotel19   Full Room Count : 0  Full Rooms No : 
+Hotel20   Full Room Count : 0  Full Rooms No : 
+Hotel21   Full Room Count : 0  Full Rooms No : 
+Hotel22   Full Room Count : 0  Full Rooms No : 
+Hotel23   Full Room Count : 0  Full Rooms No : 
+Hotel24   Full Room Count : 1  Full Rooms No : 203  Total paid amount : 2198   user003    batuhan    kansu    23   ||   
+Hotel25   Full Room Count : 0  Full Rooms No : 
+Hotel27   Full Room Count : 0  Full Rooms No : 
+Hotel28   Full Room Count : 0  Full Rooms No : 
+Hotel29   Full Room Count : 0  Full Rooms No : 
+mustafa   Full Room Count : 0  Full Rooms No : 
+dasdasdasd   Full Room Count : 0  Full Rooms No : 
+elifhotel   Full Room Count : 0  Full Rooms No : 
+sdasd   Full Room Count : 0  Full Rooms No : 
+asdasd   Full Room Count : 0  Full Rooms No : 
+
+----------------------------------------------
+
+19..06.2019--------------------------
+Hotel1   Full Room Count : 3  Full Rooms No : 101  Total paid amount : 3073   zazazaza    zazazaza    zazazaza    22   ||   102  Total paid amount : 3133   zazazaza    zazazaza    zazazaza    22   ||   103  Total paid amount : 4085   qwertyu    zazazaza    zazazaza    22   ||   
+Hotel2   Full Room Count : 0  Full Rooms No : 
+Hotel3   Full Room Count : 0  Full Rooms No : 
+Hotel4   Full Room Count : 0  Full Rooms No : 
+Hotel5   Full Room Count : 0  Full Rooms No : 
+Hotel6   Full Room Count : 0  Full Rooms No : 
+Hotel7   Full Room Count : 0  Full Rooms No : 
+Hotel8   Full Room Count : 1  Full Rooms No : 405  Total paid amount : 9511   kite17    emre    YILMAZ    19   ||   
+Hotel10   Full Room Count : 0  Full Rooms No : 
+Hotel11   Full Room Count : 0  Full Rooms No : 
+Hotel12   Full Room Count : 0  Full Rooms No : 
+Hotel13   Full Room Count : 0  Full Rooms No : 
+Hotel14   Full Room Count : 0  Full Rooms No : 
+Hotel15   Full Room Count : 1  Full Rooms No : 403  Total paid amount : 14115   user001    ahmet    ali    42   ||   
+Hotel17   Full Room Count : 2  Full Rooms No : 608  Total paid amount : 29498   user003    batuhan    kansu    23   ||   606  Total paid amount : 1189625   user004    asdasdasd    surname    28   ||   
+Hotel18   Full Room Count : 0  Full Rooms No : 
+Hotel19   Full Room Count : 0  Full Rooms No : 
+Hotel20   Full Room Count : 0  Full Rooms No : 
+Hotel21   Full Room Count : 0  Full Rooms No : 
+Hotel22   Full Room Count : 0  Full Rooms No : 
+Hotel23   Full Room Count : 0  Full Rooms No : 
+Hotel24   Full Room Count : 0  Full Rooms No : 
+Hotel25   Full Room Count : 0  Full Rooms No : 
+Hotel27   Full Room Count : 0  Full Rooms No : 
+Hotel28   Full Room Count : 0  Full Rooms No : 
+Hotel29   Full Room Count : 0  Full Rooms No : 
+mustafa   Full Room Count : 0  Full Rooms No : 
+dasdasdasd   Full Room Count : 0  Full Rooms No : 
+elifhotel   Full Room Count : 0  Full Rooms No : 
+sdasd   Full Room Count : 0  Full Rooms No : 
+asdasd   Full Room Count : 0  Full Rooms No : 
+
+----------------------------------------------
+
+20..06.2019--------------------------
+Hotel1   Full Room Count : 3  Full Rooms No : 101  Total paid amount : 3073   zazazaza    zazazaza    zazazaza    22   ||   102  Total paid amount : 3133   zazazaza    zazazaza    zazazaza    22   ||   103  Total paid amount : 4085   qwertyu    zazazaza    zazazaza    22   ||   
+Hotel2   Full Room Count : 0  Full Rooms No : 
+Hotel3   Full Room Count : 0  Full Rooms No : 
+Hotel4   Full Room Count : 0  Full Rooms No : 
+Hotel5   Full Room Count : 0  Full Rooms No : 
+Hotel6   Full Room Count : 0  Full Rooms No : 
+Hotel7   Full Room Count : 0  Full Rooms No : 
+Hotel8   Full Room Count : 1  Full Rooms No : 405  Total paid amount : 9511   kite17    emre    YILMAZ    19   ||   
+Hotel10   Full Room Count : 0  Full Rooms No : 
+Hotel11   Full Room Count : 0  Full Rooms No : 
+Hotel12   Full Room Count : 0  Full Rooms No : 
+Hotel13   Full Room Count : 0  Full Rooms No : 
+Hotel14   Full Room Count : 0  Full Rooms No : 
+Hotel15   Full Room Count : 0  Full Rooms No : 
+Hotel17   Full Room Count : 2  Full Rooms No : 608  Total paid amount : 29498   user003    batuhan    kansu    23   ||   606  Total paid amount : 1189625   user004    asdasdasd    surname    28   ||   
+Hotel18   Full Room Count : 0  Full Rooms No : 
+Hotel19   Full Room Count : 0  Full Rooms No : 
+Hotel20   Full Room Count : 0  Full Rooms No : 
+Hotel21   Full Room Count : 0  Full Rooms No : 
+Hotel22   Full Room Count : 0  Full Rooms No : 
+Hotel23   Full Room Count : 0  Full Rooms No : 
+Hotel24   Full Room Count : 0  Full Rooms No : 
+Hotel25   Full Room Count : 0  Full Rooms No : 
+Hotel27   Full Room Count : 0  Full Rooms No : 
+Hotel28   Full Room Count : 0  Full Rooms No : 
+Hotel29   Full Room Count : 0  Full Rooms No : 
+mustafa   Full Room Count : 1  Full Rooms No : 100  Total paid amount : 4601   qwertyu    zazazaza    zazazaza    22   ||   
+dasdasdasd   Full Room Count : 0  Full Rooms No : 
+elifhotel   Full Room Count : 0  Full Rooms No : 
+sdasd   Full Room Count : 0  Full Rooms No : 
+asdasd   Full Room Count : 0  Full Rooms No : 
+
+----------------------------------------------
+
+21..06.2019--------------------------
+Hotel1   Full Room Count : 3  Full Rooms No : 101  Total paid amount : 3073   zazazaza    zazazaza    zazazaza    22   ||   102  Total paid amount : 3133   zazazaza    zazazaza    zazazaza    22   ||   103  Total paid amount : 4085   qwertyu    zazazaza    zazazaza    22   ||   
+Hotel2   Full Room Count : 0  Full Rooms No : 
+Hotel3   Full Room Count : 0  Full Rooms No : 
+Hotel4   Full Room Count : 0  Full Rooms No : 
+Hotel5   Full Room Count : 0  Full Rooms No : 
+Hotel6   Full Room Count : 0  Full Rooms No : 
+Hotel7   Full Room Count : 0  Full Rooms No : 
+Hotel8   Full Room Count : 0  Full Rooms No : 
+Hotel10   Full Room Count : 0  Full Rooms No : 
+Hotel11   Full Room Count : 0  Full Rooms No : 
+Hotel12   Full Room Count : 0  Full Rooms No : 
+Hotel13   Full Room Count : 0  Full Rooms No : 
+Hotel14   Full Room Count : 0  Full Rooms No : 
+Hotel15   Full Room Count : 0  Full Rooms No : 
+Hotel17   Full Room Count : 2  Full Rooms No : 608  Total paid amount : 29498   user003    batuhan    kansu    23   ||   606  Total paid amount : 1189625   user004    asdasdasd    surname    28   ||   
+Hotel18   Full Room Count : 0  Full Rooms No : 
+Hotel19   Full Room Count : 0  Full Rooms No : 
+Hotel20   Full Room Count : 0  Full Rooms No : 
+Hotel21   Full Room Count : 0  Full Rooms No : 
+Hotel22   Full Room Count : 0  Full Rooms No : 
+Hotel23   Full Room Count : 0  Full Rooms No : 
+Hotel24   Full Room Count : 0  Full Rooms No : 
+Hotel25   Full Room Count : 0  Full Rooms No : 
+Hotel27   Full Room Count : 0  Full Rooms No : 
+Hotel28   Full Room Count : 0  Full Rooms No : 
+Hotel29   Full Room Count : 0  Full Rooms No : 
+mustafa   Full Room Count : 1  Full Rooms No : 100  Total paid amount : 4601   qwertyu    zazazaza    zazazaza    22   ||   
+dasdasdasd   Full Room Count : 0  Full Rooms No : 
+elifhotel   Full Room Count : 0  Full Rooms No : 
+sdasd   Full Room Count : 0  Full Rooms No : 
+asdasd   Full Room Count : 0  Full Rooms No : 
+
+----------------------------------------------
+
+22..06.2019--------------------------
+Hotel1   Full Room Count : 3  Full Rooms No : 101  Total paid amount : 3073   zazazaza    zazazaza    zazazaza    22   ||   102  Total paid amount : 3133   zazazaza    zazazaza    zazazaza    22   ||   103  Total paid amount : 4085   qwertyu    zazazaza    zazazaza    22   ||   
+Hotel2   Full Room Count : 0  Full Rooms No : 
+Hotel3   Full Room Count : 0  Full Rooms No : 
+Hotel4   Full Room Count : 0  Full Rooms No : 
+Hotel5   Full Room Count : 0  Full Rooms No : 
+Hotel6   Full Room Count : 0  Full Rooms No : 
+Hotel7   Full Room Count : 0  Full Rooms No : 
+Hotel8   Full Room Count : 0  Full Rooms No : 
+Hotel10   Full Room Count : 0  Full Rooms No : 
+Hotel11   Full Room Count : 0  Full Rooms No : 
+Hotel12   Full Room Count : 0  Full Rooms No : 
+Hotel13   Full Room Count : 0  Full Rooms No : 
+Hotel14   Full Room Count : 0  Full Rooms No : 
+Hotel15   Full Room Count : 0  Full Rooms No : 
+Hotel17   Full Room Count : 1  Full Rooms No : 606  Total paid amount : 1189625   user004    asdasdasd    surname    28   ||   
+Hotel18   Full Room Count : 0  Full Rooms No : 
+Hotel19   Full Room Count : 0  Full Rooms No : 
+Hotel20   Full Room Count : 0  Full Rooms No : 
+Hotel21   Full Room Count : 0  Full Rooms No : 
+Hotel22   Full Room Count : 0  Full Rooms No : 
+Hotel23   Full Room Count : 0  Full Rooms No : 
+Hotel24   Full Room Count : 0  Full Rooms No : 
+Hotel25   Full Room Count : 0  Full Rooms No : 
+Hotel27   Full Room Count : 0  Full Rooms No : 
+Hotel28   Full Room Count : 0  Full Rooms No : 
+Hotel29   Full Room Count : 0  Full Rooms No : 
+mustafa   Full Room Count : 1  Full Rooms No : 100  Total paid amount : 4601   qwertyu    zazazaza    zazazaza    22   ||   
+dasdasdasd   Full Room Count : 0  Full Rooms No : 
+elifhotel   Full Room Count : 0  Full Rooms No : 
+sdasd   Full Room Count : 0  Full Rooms No : 
+asdasd   Full Room Count : 0  Full Rooms No : 
+
+----------------------------------------------
+
+23..06.2019--------------------------
+Hotel1   Full Room Count : 3  Full Rooms No : 101  Total paid amount : 3073   zazazaza    zazazaza    zazazaza    22   ||   102  Total paid amount : 3133   zazazaza    zazazaza    zazazaza    22   ||   103  Total paid amount : 4085   qwertyu    zazazaza    zazazaza    22   ||   
+Hotel2   Full Room Count : 0  Full Rooms No : 
+Hotel3   Full Room Count : 0  Full Rooms No : 
+Hotel4   Full Room Count : 0  Full Rooms No : 
+Hotel5   Full Room Count : 0  Full Rooms No : 
+Hotel6   Full Room Count : 0  Full Rooms No : 
+Hotel7   Full Room Count : 0  Full Rooms No : 
+Hotel8   Full Room Count : 0  Full Rooms No : 
+Hotel10   Full Room Count : 0  Full Rooms No : 
+Hotel11   Full Room Count : 0  Full Rooms No : 
+Hotel12   Full Room Count : 0  Full Rooms No : 
+Hotel13   Full Room Count : 0  Full Rooms No : 
+Hotel14   Full Room Count : 0  Full Rooms No : 
+Hotel15   Full Room Count : 0  Full Rooms No : 
+Hotel17   Full Room Count : 1  Full Rooms No : 606  Total paid amount : 1189625   user004    asdasdasd    surname    28   ||   
+Hotel18   Full Room Count : 0  Full Rooms No : 
+Hotel19   Full Room Count : 0  Full Rooms No : 
+Hotel20   Full Room Count : 0  Full Rooms No : 
+Hotel21   Full Room Count : 0  Full Rooms No : 
+Hotel22   Full Room Count : 0  Full Rooms No : 
+Hotel23   Full Room Count : 0  Full Rooms No : 
+Hotel24   Full Room Count : 0  Full Rooms No : 
+Hotel25   Full Room Count : 0  Full Rooms No : 
+Hotel27   Full Room Count : 0  Full Rooms No : 
+Hotel28   Full Room Count : 0  Full Rooms No : 
+Hotel29   Full Room Count : 0  Full Rooms No : 
+mustafa   Full Room Count : 1  Full Rooms No : 100  Total paid amount : 4601   qwertyu    zazazaza    zazazaza    22   ||   
+dasdasdasd   Full Room Count : 0  Full Rooms No : 
+elifhotel   Full Room Count : 0  Full Rooms No : 
+sdasd   Full Room Count : 0  Full Rooms No : 
+asdasd   Full Room Count : 0  Full Rooms No : 
+
+----------------------------------------------
+
+24..06.2019--------------------------
+Hotel1   Full Room Count : 3  Full Rooms No : 101  Total paid amount : 3073   zazazaza    zazazaza    zazazaza    22   ||   102  Total paid amount : 3133   zazazaza    zazazaza    zazazaza    22   ||   103  Total paid amount : 4085   qwertyu    zazazaza    zazazaza    22   ||   
+Hotel2   Full Room Count : 0  Full Rooms No : 
+Hotel3   Full Room Count : 0  Full Rooms No : 
+Hotel4   Full Room Count : 0  Full Rooms No : 
+Hotel5   Full Room Count : 0  Full Rooms No : 
+Hotel6   Full Room Count : 0  Full Rooms No : 
+Hotel7   Full Room Count : 0  Full Rooms No : 
+Hotel8   Full Room Count : 0  Full Rooms No : 
+Hotel10   Full Room Count : 0  Full Rooms No : 
+Hotel11   Full Room Count : 0  Full Rooms No : 
+Hotel12   Full Room Count : 0  Full Rooms No : 
+Hotel13   Full Room Count : 0  Full Rooms No : 
+Hotel14   Full Room Count : 0  Full Rooms No : 
+Hotel15   Full Room Count : 0  Full Rooms No : 
+Hotel17   Full Room Count : 1  Full Rooms No : 606  Total paid amount : 1189625   user004    asdasdasd    surname    28   ||   
+Hotel18   Full Room Count : 0  Full Rooms No : 
+Hotel19   Full Room Count : 0  Full Rooms No : 
+Hotel20   Full Room Count : 0  Full Rooms No : 
+Hotel21   Full Room Count : 0  Full Rooms No : 
+Hotel22   Full Room Count : 0  Full Rooms No : 
+Hotel23   Full Room Count : 0  Full Rooms No : 
+Hotel24   Full Room Count : 0  Full Rooms No : 
+Hotel25   Full Room Count : 0  Full Rooms No : 
+Hotel27   Full Room Count : 0  Full Rooms No : 
+Hotel28   Full Room Count : 0  Full Rooms No : 
+Hotel29   Full Room Count : 0  Full Rooms No : 
+mustafa   Full Room Count : 1  Full Rooms No : 100  Total paid amount : 4601   qwertyu    zazazaza    zazazaza    22   ||   
+dasdasdasd   Full Room Count : 0  Full Rooms No : 
+elifhotel   Full Room Count : 1  Full Rooms No : 100  Total paid amount : 331   user003    batuhan    kansu    23   ||   
+sdasd   Full Room Count : 0  Full Rooms No : 
+asdasd   Full Room Count : 0  Full Rooms No : 
+
+----------------------------------------------
+
+25..06.2019--------------------------
+Hotel1   Full Room Count : 3  Full Rooms No : 101  Total paid amount : 3073   zazazaza    zazazaza    zazazaza    22   ||   102  Total paid amount : 3133   zazazaza    zazazaza    zazazaza    22   ||   103  Total paid amount : 4085   qwertyu    zazazaza    zazazaza    22   ||   
+Hotel2   Full Room Count : 0  Full Rooms No : 
+Hotel3   Full Room Count : 0  Full Rooms No : 
+Hotel4   Full Room Count : 0  Full Rooms No : 
+Hotel5   Full Room Count : 0  Full Rooms No : 
+Hotel6   Full Room Count : 0  Full Rooms No : 
+Hotel7   Full Room Count : 0  Full Rooms No : 
+Hotel8   Full Room Count : 0  Full Rooms No : 
+Hotel10   Full Room Count : 0  Full Rooms No : 
+Hotel11   Full Room Count : 0  Full Rooms No : 
+Hotel12   Full Room Count : 0  Full Rooms No : 
+Hotel13   Full Room Count : 0  Full Rooms No : 
+Hotel14   Full Room Count : 0  Full Rooms No : 
+Hotel15   Full Room Count : 0  Full Rooms No : 
+Hotel17   Full Room Count : 1  Full Rooms No : 606  Total paid amount : 1189625   user004    asdasdasd    surname    28   ||   
+Hotel18   Full Room Count : 0  Full Rooms No : 
+Hotel19   Full Room Count : 0  Full Rooms No : 
+Hotel20   Full Room Count : 0  Full Rooms No : 
+Hotel21   Full Room Count : 0  Full Rooms No : 
+Hotel22   Full Room Count : 0  Full Rooms No : 
+Hotel23   Full Room Count : 0  Full Rooms No : 
+Hotel24   Full Room Count : 0  Full Rooms No : 
+Hotel25   Full Room Count : 0  Full Rooms No : 
+Hotel27   Full Room Count : 0  Full Rooms No : 
+Hotel28   Full Room Count : 0  Full Rooms No : 
+Hotel29   Full Room Count : 0  Full Rooms No : 
+mustafa   Full Room Count : 1  Full Rooms No : 100  Total paid amount : 4601   qwertyu    zazazaza    zazazaza    22   ||   
+dasdasdasd   Full Room Count : 0  Full Rooms No : 
+elifhotel   Full Room Count : 1  Full Rooms No : 100  Total paid amount : 331   user003    batuhan    kansu    23   ||   
+sdasd   Full Room Count : 1  Full Rooms No : 100  Total paid amount : 3833   user001    ahmet    ali    42   ||   
+asdasd   Full Room Count : 0  Full Rooms No : 
+
+----------------------------------------------
+
+26..06.2019--------------------------
+Hotel1   Full Room Count : 3  Full Rooms No : 101  Total paid amount : 3073   zazazaza    zazazaza    zazazaza    22   ||   102  Total paid amount : 3133   zazazaza    zazazaza    zazazaza    22   ||   103  Total paid amount : 4085   qwertyu    zazazaza    zazazaza    22   ||   
+Hotel2   Full Room Count : 0  Full Rooms No : 
+Hotel3   Full Room Count : 0  Full Rooms No : 
+Hotel4   Full Room Count : 0  Full Rooms No : 
+Hotel5   Full Room Count : 0  Full Rooms No : 
+Hotel6   Full Room Count : 0  Full Rooms No : 
+Hotel7   Full Room Count : 0  Full Rooms No : 
+Hotel8   Full Room Count : 0  Full Rooms No : 
+Hotel10   Full Room Count : 0  Full Rooms No : 
+Hotel11   Full Room Count : 0  Full Rooms No : 
+Hotel12   Full Room Count : 0  Full Rooms No : 
+Hotel13   Full Room Count : 0  Full Rooms No : 
+Hotel14   Full Room Count : 0  Full Rooms No : 
+Hotel15   Full Room Count : 0  Full Rooms No : 
+Hotel17   Full Room Count : 1  Full Rooms No : 606  Total paid amount : 1189625   user004    asdasdasd    surname    28   ||   
+Hotel18   Full Room Count : 0  Full Rooms No : 
+Hotel19   Full Room Count : 0  Full Rooms No : 
+Hotel20   Full Room Count : 0  Full Rooms No : 
+Hotel21   Full Room Count : 0  Full Rooms No : 
+Hotel22   Full Room Count : 0  Full Rooms No : 
+Hotel23   Full Room Count : 0  Full Rooms No : 
+Hotel24   Full Room Count : 0  Full Rooms No : 
+Hotel25   Full Room Count : 0  Full Rooms No : 
+Hotel27   Full Room Count : 0  Full Rooms No : 
+Hotel28   Full Room Count : 0  Full Rooms No : 
+Hotel29   Full Room Count : 0  Full Rooms No : 
+mustafa   Full Room Count : 1  Full Rooms No : 100  Total paid amount : 4601   qwertyu    zazazaza    zazazaza    22   ||   
+dasdasdasd   Full Room Count : 0  Full Rooms No : 
+elifhotel   Full Room Count : 1  Full Rooms No : 100  Total paid amount : 331   user003    batuhan    kansu    23   ||   
+sdasd   Full Room Count : 1  Full Rooms No : 100  Total paid amount : 3833   user001    ahmet    ali    42   ||   
+asdasd   Full Room Count : 0  Full Rooms No : 
+
+----------------------------------------------
+
