@@ -1,8 +1,6 @@
-# Project2
+# HOTEL-RESERVATION-MANAGER-PLUS
 
-## Team "Lost"
-
-### Contributors 
+## Contributors 
 
 [Batuhan KANSU](https://github.com/bkansu) **2017280026** 
 
